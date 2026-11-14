@@ -1,0 +1,10 @@
+# generated figures, tables, logs and reports
+output/
+
+# intermediate data, never committed
+intermediate/
+
+# data objects
+*.rds
+*.rda
+*.RData
